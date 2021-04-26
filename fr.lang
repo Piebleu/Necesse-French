@@ -1,9 +1,9 @@
-// Community French translations by Biprini#0001 / Piebleu
-// Chaque langue doit avoir lang.localname et lang.engname pour être chargée
-// Le fichier doit être sauvgardé en encodage UTF-8
+// Community French translations by Biprini#0001 / Piebleu. Github of translation : https://github.com/Piebleu/Necesse-French
+// Every language must have lang.localname and lang.engname to be loaded
+// File must be saved with UTF-8 encoding
 [lang]
 localname=Français
-engname=Français
+engname=French
 
 [tile]
 unknowntile=Inconnu
@@ -39,7 +39,6 @@ unknownobject=Inconnu
 air=Air
 
 // Trees/big flora
-// Arbre / Grande Fleurs
 oaktree=Chêne
 oaksapling=Pousse de Chêne
 sprucetree=Épicéa
@@ -54,7 +53,6 @@ cactus=Cactus
 cactussapling=Pousse de Cactus
 
 // Work stations
-// Établi
 workstation=Établi
 forge=Forge
 carpentersbench=Banc de Menuiserie
@@ -65,7 +63,6 @@ advancedworkstation=Établi Avancé
 
 
 // Walls and doors etc
-// Mur et Porte etc
 woodwall=Mur en Bois
 wooddoor=Porte en Bois
 pinewall=Mur en Pin
@@ -92,15 +89,12 @@ woodfence=Clôture en Bois
 woodfencegate=Portillons en Bois 
 
 // Inventories
-// Inventaire
 storagebox=Box de Rangement
 barrel=Baril
 demonchest=Coffre Démoniaque
 
 // ### Furniture ###
-// ### Fourniture ###
 // Lighting
-// Lumière
 torch=Torche
 walltorch=Torche Murale
 ironlamp=Lampe en Fer
@@ -108,7 +102,6 @@ goldlamp=Lampe en Or
 firechalice=Calice de Feu
 
 // Misc
-// Autres
 sign=Pancarte
 flowerpot=Pot de Fleur
 itemstand=Porte Item
@@ -116,8 +109,7 @@ armorstand=Porte Armure
 trainingdummy=Mannequin d'Entraînement
 
 // Furniture types
-// Fourniture Type
-// Chêne
+// Oak
 oakchest=Coffre en Chêne
 oakdinnertable=Table à Dîner en Chêne
 oakdesk=Bureau en Chêne
@@ -134,7 +126,7 @@ oakdisplay=Affiche en Chêne
 oakbathtub=Baignoire en Chêne
 oaktoilet=Toilette en Chêne
 
-// Épicéa
+// Spruce
 sprucechest=Coffre en Épicéa
 sprucedinnertable=Table à Dîner en Épicéa
 sprucedesk=Bureau en Épicéa
@@ -151,7 +143,7 @@ sprucedisplay=Affiche en Épicéa
 sprucebathtub=Baignoire en Épicéa
 sprucetoilet=Toilette en Épicéa
 
-// Pin
+// Pine
 pinechest=Coffre en Pin
 pinedinnertable=Table à Dîner en Pin
 pinedesk=Bureau en Pin
@@ -168,7 +160,7 @@ pinedisplay=Affiche en Pin
 pinebathtub=Baignoire en Pin
 pinetoilet=Toilette en Pin
 
-// Palmier
+// Palm
 palmchest=Coffre en Palmier
 palmdinnertable=Table à Dîner en Palmier
 palmdesk=Bureau en Palmier
@@ -185,7 +177,7 @@ palmdisplay=Affiche en Palmier
 palmbathtub=Baignoire en Palmier
 palmtoilet=Toilette en Palmier
 
-// Donjon
+// Dungeon
 dungeonchest=Coffre de Donjon
 dungeondinnertable=Table à Dîner de Donjon
 dungeondesk=Bureau de Donjon
@@ -203,7 +195,6 @@ dungeonbathtub=Baignoire de Donjon
 dungeontoilet=Toilette de Donjon
 
 // Misc
-// Autre
 wooddinnertable=Table à Dîner en Bois
 wooddesk=Bureau en Bois
 woodmodulartable=Table Modulable en Bois
@@ -215,15 +206,13 @@ woodbathtub=Baignoire en Bois
 woodtoilet=Toilette en Bois
 
 // Carpets
-// Tapis
 woolcarpet=Tapis en Laine
 leathercarpet=Tapis en Cuir
 
-// Lits
+// Beds
 woodbed=Lit en Bois
 
 // Logic - traps etc
-// Logiques - Pièges, etc
 woodpressureplate=Plaque de Pression en Bois
 rockpressureplate=Plaque de Pression en Roche
 dungeonpressureplate=Plaque de Pression de Donjon 
@@ -251,13 +240,12 @@ icewalltrap=Glace <trap>
 deepstonewalltrap=Pierre Profonde <trap>
 obsidianwalltrap=Obsidienne <trap>
 dungeonwalltrap=Donjon <trap>
-arrowtrap=Arrow Trap
-flametrap=Flame Trap
-voidtrap=Néant Trap
+arrowtrap=Trape à Flèche
+flametrap=Trape à Flame
+voidtrap=Trap du Néant
 tnt=TNT
 
 // Agriculture / flowers / alchemy
-// Agriculture / Fleurs / Alchimie
 sunflowerseed=Graines de Tournesol
 wildsunflower=Tournesol Sauvage
 sunflower=Tournesol
@@ -273,14 +261,13 @@ mushroomflower=Fleur de Champignon
 wheatseed=Graines de Blé
 wildwheat=Blé Sauvage
 wheat=Blé
-caveglowsprout=Spores de Caveglow
-wildcaveglow=Caveglow Sauvage
-caveglow=Caveglow
+caveglowsprout=Spores de Champignon des Mines
+wildcaveglow=Champignon des Mines Sauvage
+caveglow=Champignon des Mines
 compostbin=Bac à Compost
 feedingtrough=Mangeoire
 
 // Roches - unobtainable
-// Roche non Obtenable
 surfacerock=Roche de Surface
 sandsurfacerock=Roche de Sable de Surface 
 surfacerocksmall=Petite Roche de Surface
@@ -311,7 +298,6 @@ lifequartzore=Minerai de Quartz de Vie
 glacialore=Minerai de Glacial
 
 // Misc
-// Autre
 grass=Herbe
 swampgrass=Herbe de Marécage
 cattail=Quenouille
@@ -345,26 +331,25 @@ sensorhostileon=Détecte Créatures Hostiles
 sensorhostileoff=Ne Détecte pas de Créatures Hostiles
 sensorpassiveon=Détecte Créature Passive
 sensorpassiveoff=Ne Détecte pas de Créature Passive
-rsactivate=Activate: <value>
-rsreset=Reset: <value>
+rsactivate=Activer : <value>
+rsreset=Réinitialiser : <value>
 tflipflopout1=Alterne
-tflipflopout2=N'Alterne Pas
-timerticks=Ticks: <value>
-timercurrent=Timer: <value>
-timeractive=Running
-timerinactive=Not running
+tflipflopout2=N'alterne Pas
+timerticks=Ticks : <value>
+timercurrent=Temps : <value>
+timeractive=Lancé
+timerinactive=Non lancé
 soundbass=Bass
 soundhat=Hat
 soundkick=Kick
 soundpiano=Piano
 soundsnare=Snare
 soundnone=N/A
-soundname=Sound: <name>
-soundpitch=Pitch: <value>
+soundname=Sound : <name>
+soundpitch=Pitch : <value>
 
 [item]
 // General materials
-// Matériaux Généraux
 coin=Pièces
 oaklog=Bûche de Chêne
 sprucelog=Bûche de Épicéa
@@ -415,7 +400,6 @@ brokencoppertool=Outil en Cuivre cassé
 brokenirontool=Outil en Fer cassé
 
 // Pickaxes
-// Pioches
 woodpickaxe=Pioche en Bois
 copperpickaxe=Pioche en Cuivre
 ironpickaxe=Pioche en Fer
@@ -424,7 +408,6 @@ tungstenpickaxe=Pioche en Tungstène
 icepickaxe=Pioche de Glace
 
 // Axes
-// Haches
 woodaxe=Hache en Bois
 copperaxe=Hache en Cuivre
 ironaxe=Hache en Fer
@@ -432,7 +415,6 @@ demonicaxe=Hache en Demonic
 tungstenaxe=Hache en Tungstène
 
 // Shovels
-// Pelles
 woodshovel=Pelle en Bois
 coppershovel=Pelle en Cuivre
 ironshovel=Pelle en Fer
@@ -440,7 +422,6 @@ demonicshovel=Pelle en Demonic
 tungstenshovel=Pelle en Tungstène
 
 // Fishing rods
-// Canne à pêche
 godrod=Canne des Dieux
 woodfishingrod=Canne à pêche en Bois
 ironfishingrod=Canne à pêche en Fer
@@ -449,21 +430,18 @@ goldfishingrod=Canne à pêche en Or
 depthscatcher=Piège de Profondeur
 
 // Bait
-// Appât
 godbait=Appât Divin
 wormbait=Vers d'Appât
 swamplarva=Larve des Marécage
 anglersbait=Appât de Pêcheur
 
 // Misc tools
-// Divers Outils
 farmingscythe=Faux de Culture
 wrench=Clé à Outil
 cutter=Cutter
 wire=Câble
 
 // Swords
-// Epées
 woodsword=Épée en Bois
 coppersword=Épée en Bois Cuivre 
 ironsword=Épée en Bois Fer 
@@ -476,7 +454,6 @@ tungstensword=Épée en Bois Tungstène
 reaperscythe=Faux de Faucheuse
 
 // Spears
-// Lances
 woodspear=Lance en Bois
 copperpitchfork=Fourche en Cuivre
 copperspear=Lance en Cuivre
@@ -488,17 +465,15 @@ tungstenspear=Lance en Tungstène
 cryospear=Lance de Glace
 
 // Bows
-// Arcs
 woodbow=Arc en Bois
 copperbow=Arc en Cuivre
 ironbow=Arc en Fer
 demonicbow=Arc Demonic
-vulturesburst=Vultures Burst
+vulturesburst=Arc de Vautour
 tungstenbow=Arc en Tungstène
 glacialbow=Arc de Glacial
 
 // Arrows
-// Flèches
 stonearrow=Flèches en Pierre
 firearrow=Flèches de Feu
 bouncingarrow=Flèche Rebondissante
@@ -516,13 +491,11 @@ deathripper=Éventreur de la mort
 cryoblaster=Blaster Cryogénique
 
 // Bullets
-// Balles
 simplebullet=Balle Simple
 bouncingbullet=Balle rebondissante
 cannonball=Boulet de Canon
 
 // Magic weapons
-// Armes Magiques
 bloodbolt=Éclair de Sang
 bloodvolley=Volley de Sant
 voidstaff=Bâton du Néant
@@ -538,10 +511,9 @@ shadowbeam=Faisceau d'Ombre
 cryoquake=Tremblement de Glace
 
 // Throw weapons
-// Armes de Jets
 ninjastar=Étoile de Ninja
 woodboomerang=Boomerang en Bois
-spiderboomerang=Spider Boomerang
+spiderboomerang=Boomerang Araignée
 voidboomerang=Boomerang du Néant
 tungstenboomerang=Boomerang en Tungstène
 hook=Crochet
@@ -551,7 +523,6 @@ boxingglovegun=Gants de Boxe
 glacialboomerang=Boomerang Glacial
 
 // Summon weapons
-// Armes d'invocation
 brainonastick=Bâton d'Intelligence
 spiderstaff=Bâton D'Arachnéen
 vulturestaff=Bâton des Vautours
@@ -559,18 +530,15 @@ cryostaff=Bâton des Glaces
 reaperscall=Appel de la Mort
 
 // Banners
-// Bannière
 bannerofspeed=Bannière de Rapidité
 
 // Misc weapons
-// Divers Armes
 forceofwind=Force du Vent
 mlg1=MLG 1
 mlg2=MLG 2
 mousetest=Test de Souris
 
 // Trinkets
-// Bibelots
 ninjasmark=Marque Ninja
 vampiresgift=Cadeau de Vampire
 demonclaw=Griffe de Demon
@@ -582,9 +550,9 @@ mobilitycloak=Cape de Mobilitée
 mesmertablet=Tablette Mesmer
 inducingamulet=Amulette d'Induction
 lifeline=Fils de Vie
-magicfoci=Magic Foci
-rangefoci=Range Foci
-meleefoci=Melee Foci
+magicfoci=Foci Magique
+rangefoci=Foci de Distance
+meleefoci=Foci de Melée
 summonfoci=Invocateur de Foci
 ancientfeather=Plume Antique
 miningcharm=Charme de Minage
@@ -606,7 +574,6 @@ calmingrose=Rose Calmante
 hysteriatablet=Tablette d'Hystérie
 frenzyorb=Orb de Frénésie
 
-// Armure
 // Armure
 leatherhood=Capuche en Cuir
 leathershirt=Chemise en Cuir
@@ -646,7 +613,6 @@ glacialchestplate=Plastron Glacial
 glacialboots=Bottes Glacial
 
 // Cosmetic Armure
-// Armures Cosmetic
 shoes=Chaussures
 shirt=Chemise
 wig=Perruque
@@ -661,16 +627,15 @@ pirateboots=Bottes de Pirate
 piratebandana=Bandana de Pirate
 pirateshirt=Chemise de Pirate
 vulturemask=Masque de Vautour
-plaguemask=Masque de Peste
-plaguerobe=Robe de Peste
-plagueboots=Bottes de Peste
-surgicalmask=Masque Chirurgical
-trapperhat=Chapeau de Trappeur
-horsemask=Masque de Cheval
-horsecostumeshirt=Chemise de Costume de Cheval
-horsecostumeboots=Bottes de Costume de Chevalgreater
+plaguemask=Masque de malade
+plaguerobe=Robe de malade
+plagueboots=Bottes de malade
+surgicalmask=Masque chirurgical
+trapperhat=Chapeau de trappeur
+horsemask=Masque de cheval
+horsecostumeshirt=Chemise de costume de cheval
+horsecostumeboots=Bottes de costume de cheval
 
-// Potions
 // Potions
 healthpotion=Potion de Vie
 greaterhealthpotion=Grande Potion de Vie
@@ -689,14 +654,12 @@ buildingpotion=Potion de Construction
 miningpotion=Potion de Minage
 
 // Consumables
-// Consomable
 recallscroll=Parchemin de Rappel
 travelscroll=Parchemin de Voyage
 recallflask=Fiole de Rappel
 stinkflask=Fiole Repoussante
 
 // Misc
-// Autres
 craftingguide=Guide de Fabrication
 voidpouch=Pochette Vide
 coinpouch=Porte-Monnaie
@@ -732,7 +695,6 @@ lifeelixir=Elixir de Vie
 emptypendant=Pendentif Vide
 
 // Quest items
-// Items de Quêtes
 zombiearm=Bras de Zombie
 goblinring=Anneau de Gobelin
 swampeel=Anguille des Marécages
@@ -757,15 +719,13 @@ feraltail=Queue Sauvage
 razoricicle=Stalactite Coupant
 
 // Global ingredients
-// Ingrédient Globaux
 anysapling=Toute Pousse d'Arbre
 anylog=Toute Bûche
 anystone=Toute Pierre
 bulletuser=Toute Balle de Pistolet
 
 [itemtooltip]
-// Armure
-// Armur
+// Armor
 headslot=Emplacement de Tête
 chestslot=Emplacement de Torse
 feetslot=Emplacement de Pieds
@@ -774,7 +734,7 @@ cosmeticchestslot=Emplacement Cosmétique de Torse
 cosmeticfeetslot=Emplacement Cosmétique de Pieds
 cosmetic=Item Cosmétique
 cosmeticslot=Pas de statistique dans les emplacements cosmétiques
-armorvalue=+<value> Armure
+armorvalue=+<value> d'Armure
 setbonus=Bonus d'ensemble :
 ninjaset1=Vous êtes un Ninja effrayant !
 ninjaset2=Supprime la vitesse de déplacement\nréduction lors de l'attaque
@@ -790,7 +750,6 @@ spiderset=Attaque les cibles empoisonnées\net inflige 10 dégâts toutes les 5 
 glacialhelmetset=Les attaques de mêlée lance de la Glace
 glacialcircletset=Les attaques d'invocations ralentissent la cible
 
-// Bibelots
 // Trinkets
 trinketslot=Emplacement pour bijou
 trinketdisabled=§hDésactivé par <items>
@@ -844,7 +803,6 @@ tungstentooltip1=Peut extraire l'obsidienne et
 tungstentooltip2=Minerai de glace dans des profondes grottes de neige 
 
 // Weapons
-// Armes
 damagetip=Dégâts : <value>
 truedamagetip=Dégâts réel : <value>
 meleedamagetip=Dégâts mêlée : <value>
@@ -919,7 +877,6 @@ buildingpot=Augmente la vitesse de placement des objets
 miningpot=Augmente la vitesse de minage
 
 // Tiles
-// Tuiles
 tiletip=Peut être placé sur la plupart des terrains
 
 // Objects
@@ -1048,7 +1005,6 @@ razoricicleobtain=Lâché par les flocons de glace
 noenchant=NO_ENCHANT
 
 // Trinkets
-// Bibelots
 keen=Vif
 blunt=Émoussé
 nimble=Agile
@@ -1059,14 +1015,12 @@ sturdy=Robuste
 weak=Faible
 
 // Swords
-// Épées
 berserk=Berserk
 brutal=Brutal
 shoddy=Mauvaise
 agile=Agile
 heavy=Lourde
 
-// Projectile
 // Projectile
 pounding=Martèlement
 tightened=Resserré
@@ -1076,7 +1030,6 @@ advanced=Avancé
 primitive=Primitif
 
 // Tool damage
-// Dommages aux outils
 sharp=Tranchant
 dull=Terne
 
@@ -1170,7 +1123,6 @@ velocity=<mod>% de vitesse
 
 [mob]
 // Passive
-// Passif
 sheep=Mouton
 lamb=Agneau
 wildostrich=Autruche Sauvage
@@ -1180,7 +1132,6 @@ penguin=Manchot
 polarbear=Ours Polaire
 
 // Critters
-// Bestioles
 rabbit=Lapin
 squirrel=Écureuil
 snowhare=Lièvre des neiges
@@ -1196,7 +1147,6 @@ spider=Araignée
 mouse=Souris
 
 // Humans
-// Humains
 human=Villageois
 humanname=<name> le villageois
 farmerhuman=Fermier
@@ -1232,7 +1182,6 @@ travelingmerchantname=<name> le Voyageur Marchand
 travelingpawnbroker=Prêteur sur gages itinérant
 travelingpawnbrokername=<name> le Prêteur sur gages itinérant
 
-// Hostile
 // Hostile
 zombie=Zombie
 trapperzombie=Zombie Trappeur
@@ -1276,7 +1225,6 @@ playerreaperspirit=Esprit de la Faucheuse
 playercryoflake=Flocons de Glace
 
 // Bosses/minions
-// Boss et autres
 evilsprotector=Protecteur du mal
 evilsportal=Portail du mal
 portalminion=Serviteur du portail
@@ -1444,74 +1392,74 @@ pirateescape2=J'en ai fini avec toi!
 pirateescape3=Peut-être une prochaine fois mon garçon ! 
 
 [settlement]
-maxcount=<count> per settlement
-roomreqs=Room requirements:
-showreqs=Hold shift to see room requirements
-clear=Clear preferred settler
-outsideerr=Room is outside
-notopenerr=Room is not an open area
-doorerr=Room has no doors
-doorreq=At least one door
-lighterr=Room has no lights
-lightreq=At least one light source
-floorerr=Room doesn't have complete floor
-floorreq=Complete valid floor tiles
-roomtoosmall=Room is too small
-roomsizereq=Room size at least <size> tiles
-alchemyerr=Room needs alchemy table
-alchemyreq=At least one alchemy table
-metalworkerr=Room needs forge or anvil
-metalworkreq=At least one forge or anvil
-chairerr=Room needs a chair
-tableerr=Room needs a table
-magereq=At least one table and chair
-golderr=Room needs a piece of gold furniture
-goldreq=At least one piece of gold furniture
-settlerunavailable=Not available
-settlershowtip=Hold shift to show acquire tip
-alchemisttip=Consume a potion
-anglertip=Catch a fish
-pawnbrokertip=Complete Antique Vulture quest tier
-animalkeepertip=Kill the Pirate Captain
-blacksmithtip=Go underground and craft metal bars
-farmertip=Visit a village island
-guardtip=Deal more damage!
-gunsmithtip=Kill the Evils Protector
-huntertip=Discover 10 or more islands
-magetip=Visit a dungeon and kill the Néant Wizard
-piratetip=Kill the Pirate Captain
-stylisttip=Kill the Pirate Captain
-explorertip=Kill the Antique Vulture
-travelingarrive=§a<mob> is arriving
-travelingleave=§a<mob> is leaving
+maxcount=<count> per Colonie
+roomreqs=Exigences de salle :
+showreqs=Maintenez shift pour voir les exigences de la salle
+clear=Effacer le colon préféré
+outsideerr=La salle est à l'extérieur
+notopenerr=La salle n'est pas une zone ouverte
+doorerr=La salle n'a pas de portes
+doorreq=Au moins une porte
+lighterr=La salle n'a pas de lumière
+lightreq=Au moins une source lumineuse
+floorerr=La salle n'a pas de sol complet
+floorreq=Carreaux de sol valides
+roomtoosmall=La salle est trop petite
+roomsizereq=Taille de la pièce au moins <size> carreaux
+alchemyerr=La salle a besoin d'une table d'alchimie
+alchemyreq=Au moins une table d'alchimie
+metalworkerr=La salle a besoin d'une forge ou d'une enclume
+metalworkreq=Au moins une forge ou enclume
+chairerr=La salle a besoin d'une chaise
+tableerr=La salle a besoin d'une table
+magereq=Au moins une table et une chaise
+golderr=La salle a besoin d'un meuble en or
+goldreq=Au moins un meuble en or
+settlerunavailable=Non disponible
+settlershowtip=Maintenez shift pour afficher le conseil d'acquisition
+alchemisttip=Consomme une potion
+anglertip=Attrape un poisson
+pawnbrokertip=Terminer le niveau de quête de Vautour Antique
+animalkeepertip=Tuez le Capitaine Pirate
+blacksmithtip=Allez sous terre et fabriquez des bars en métal
+farmertip=Visitez une île Village
+guardtip=Infligez plus de dégâts!
+gunsmithtip=Tuez le Protecteur du Mal
+huntertip=Découvrez 10 îles ou plus
+magetip=Visitez un donjon et tuez le Mage du Néant
+piratetip=Tuez le Capitaine Pirate
+stylisttip=Tuez le Capitaine Pirate
+explorertip=Tuer le Vautour Antique
+travelingarrive=§a<mob> est arrivé
+travelingleave=§a<mob> est parti
 
 [buff]
-healthpotionfatigue=Health potion fatigue
-onfire=On fire
-ablaze=Ablaze
-brokenarmor=Broken armor
-teleportsickness=Teleport sickness
-voidsetcooldown=Néant set cooldown
-fowcooldown=Force of Wind cooldown
-lifelinecooldown=Recent lifeline
-spidervenom=Spider venom
-chilled=Chilled
-freezing=Freezing
-frostburn=Frostburn
-haunted=Haunted
-ninjasetbonus=Ninja set bonus
-bannerofspeed=Banner of Speed
-debugbuff=Debug buff
-summonedpet=Summoned pet
-summonedmount=Summoned mount
-summonedmob=Summoned mob
-settlementflag=Colonie nearby
+healthpotionfatigue=Fatigue des potions de santé
+onfire=En feu
+ablaze=Enflammé
+brokenarmor=Armure brisée
+teleportsickness=Mal de téléportation
+voidsetcooldown=Temps de recharge du Néant
+fowcooldown=Temps de recharge des Forces du Vent
+lifelinecooldown=Ligne de vie récente
+spidervenom=Venin d'Araignée
+chilled=Réfroidi
+freezing=Congelé
+frostburn=Feu Congelé
+haunted=Hanté
+ninjasetbonus=Bonus d'ensemble de Ninja
+bannerofspeed=Bannière de Rapidité
+debugbuff=Buff Débug
+summonedpet=Familier invoqué
+summonedmount=Monture invoquée
+summonedmob=Monstre invoqué
+settlementflag=Colonie à proximité
 
 [bufftooltip]
-canceltip=Cancel
-nomodifiers=§9No modifiers given by buff
-teleportsicknesstip=Unable to teleport again
-settlementflagtip=Mob spawns reduced significantly
+canceltip=Annuler
+nomodifiers=§9Aucun modificateur donné par buff
+teleportsicknesstip=Impossible de se téléporter à nouveau
+settlementflagtip=Le nombre d'apparitions de monstres a été très réduit
 
 [biome]
 unknown=Inconnu
@@ -1527,200 +1475,200 @@ forestvillage=Village Forestier
 piratevillage=Village Pirate
 
 [expedition]
-completequests=Complete more settlement quests
-cave=Cave
-swampcave=Swamp Cave
+completequests=Terminez plus de quêtes de Colonie
+cave=Caverne
+swampcave=Caverne Marais
 dungeon=Donjon
-desertcave=Desert Cave
+desertcave=Caverne Desert
 pirate=Pirate
-deepcave=Deep Cave
-deepsnowcave=Deep Snow Cave
+deepcave=Caverne Profonde
+deepsnowcave=Caverne Profonde Neigeuse
 
 [disconnect]
-chatmsg=<name> disconnected: <msg>
-unknown=Inconnu reason
-internal=Internal error
-kicked=Kicked: <reason>
-noreason=No reason
-invalidname=Invalid name
-clientresponding=Not responding
-serverstopped=Serveur stopped
-servererror=Serveur error
-wrongpassword=Wrong password
-missingclient=Missing client
-banned=You are banned from this server
-wrongversion=Wrong client version
-alreadyplaying=Already playing
-serverfull=Serveur full
-nomessage=No message
-missingappearance=Missing appearance
-networkerror=Network error
-networkerrormsg=Network error: <msg>
-statedesync=Game state desync
-notresponding=Have not received updates in <seconds> seconds
-respondingdc=Serveur did not respond
+chatmsg=<name> se déconnecte : <msg>
+unknown=Raison inconnue
+internal=Erreur interne
+kicked=Kick : <reason>
+noreason=Aucune raison
+invalidname=Nom Invalide
+clientresponding=Ne répond pas
+serverstopped=Serveur arrêté
+servererror=Erreur du serveur
+wrongpassword=Mauvais mot de passe
+missingclient=Client manquant
+banned=Vous êtes banni de ce serveur
+wrongversion=Mauvaise version du client
+alreadyplaying=Déja en jeu
+serverfull=Serveur plein
+nomessage=Aucun message
+missingappearance=Apparence manquante
+networkerror=Erreur réseau
+networkerrormsg=Erreur réseau : <msg>
+statedesync=Désynchronisation de l'état du jeu
+notresponding=Je n'ai pas reçu de réponse depuis <secondes> secondes
+respondingdc=Le serveur n'a pas répondu
 
 [deaths]
 default=<victim> est mort
 unknownatt=Inconnu
-toobuffed=<victim> was too buffed
-generic1=<victim> was slain by <attacker>
-generic2=<victim> got ripped to pieces by <attacker>
-generic3=<victim> got humiliated by <attacker>
-generic4=<victim> could not handle <attacker>
-generic5=<attacker> overcame <victim>
-generic6=<attacker> was too fast for <victim>
-generic7=<attacker> humiliated <victim>
-generic8=<victim> could not handle <attacker>
-projectile1=<victim> got headshot by <attacker>
-projectile2=<attacker> landed a fatal shot on <victim>
-projectile3=<victim> was hunted down by <attacker>
-evilsproj1=<victim> got cleaned up by <attacker>
-evilsproj2=<attacker> finished off <victim>
-evilsproj3=<victim> could not handle <attacker>
-portalmin1=<victim> got scared of by <attacker>
-portalmin2=<victim> could not handle the horror of <attacker>
-portalmin3=<attacker> scared <victim> to death
+toobuffed=<victim> était trop poli
+generic1=<victim> a été tué par <attacker>
+generic2=<victim> a été mis en pièces par <attacker>
+generic3=<victim> a été humilié par <attacker>
+generic4=<victim> n'a pas pu gérer <attacker>
+generic5=<attacker> a vaincu <victim>
+generic6=<attacker> était trop rapide pour <victim>
+generic7=<attacker> a humilié <victim>
+generic8=<victim> n'a pas pu gérer <attacker>
+projectile1=<victim> a reçu une balle dans la tête par <attacker>
+projectile2=<attacker> a décroché un tir fatal sur <victim>
+projectile3=<victim> a été traqué par <attacker>
+evilsproj1=<victim> a été nettoyé par <attacker>
+evilsproj2=<attacker> a terminé <victim>
+evilsproj3=<victim> n'a pas pu gérer <attacker>
+portalmin1=<victim> a été effrayé par <attacker>
+portalmin2=<victim> n'a pas pu gérer l'horreur de <attacker>
+portalmin3=<attacker> a fait peur à <victim> à mort
 tntname=TNT
 explosionname=Explosion
-explosion1=<victim> got split to pieces by <attacker>
-explosion2=<attacker> exploded all over <victim>
-explosion3=<attacker> made <victim> rest in pieces
-firename=Fire
-lavaname=Lava
-fire1=<victim> did not have any protection against <attacker>
-fire2=<attacker> was too hot for <victim>
-fire3=<victim> was burned alive by <attacker>
-arrowtrapname=Arrow trap
-flametrapname=Flame trap
-flametrap1=<victim> got roasted by <attacker>
-flametrap2=<attacker> grilled <victim>
-lightning1=<victim> got electrocuted to pieces by <attacker>'s lightning
-lightning2=<attacker> toasted <victim> with lightning
-zombie1=<victim> got ripped to pieces by <attacker>
-zombie2=<victim> got humiliated by <attacker>
-zombie3=<attacker> ate <victim>'s entire body
-mummy1=<victim> got wrapped around by <attacker>
-mummy2=<attacker> was too scary for <victim>
-mummy3=<attacker> was sadly too good for <victim>
-skeleton1=<victim> got ripped to pieces by <attacker>
-skeleton2=<attacker> was too scary for <victim>
-skeleton3=<attacker> was too hard for <victim>
-polar1=<victim> got mauled by <attacker>
-polar2=<attacker> was too fast for <victim>
-polar3=<victim> got slaughtered by <attacker>
-vamp1=<attacker> out juked <victim>
-vamp2=<attacker> took <victim> to his lair
-vamp3=<victim> forgot the counter for <attacker>
-voidwiz1=<attacker> turned <victim> to magic dust
-voidwiz2=<attacker> defended his territory against <victim>
-voidwiz3=<victim> got hit by too many spells from <attacker>
-voidwiz4=<attacker>'s magic was too powerful for <victim>
-voidapp1=<attacker> blasted <victim> with color
-voidapp2=<victim> got a taste of <attacker>'s staff
-voidapp3=<attacker> was too fast for <victim>
-piratecap1=<victim> got swarmed by <attacker>
-piratecap2=<attacker> exploded <victim>'s face
-piratecap3=<attacker> kept his treasure from <victim>
-piratecap4=<victim> could not handle <attacker>'s cannon
-cavespider1=<victim> got torn up by <attacker>
-cavespider2=<attacker>'s fangs was too big for <victim>
-cavespider3=<attacker> ate <victim> alive
+explosion1=<victim> a été divisé en morceaux par <attacker>
+explosion2=<attacker> a explosé partout <victim>
+explosion3=<attacker> a fait reposer <victim> en morceaux
+firename=Feu
+lavaname=Lave 
+fire1=<victim> n'avait aucune protection contre <attacker>
+fire2=<attacker> était trop chaud pour <victim>
+fire3=<victim> a été brûlé vif par <attacker>
+arrowtrapname=Piège à flèches
+flametrapname=Piège à flammes
+flametrap1=<victim> a été rôti par <attacker>
+flametrap2=<attacker> a grillé <victim>
+lightning1=<victim> a été réduit en cendres par la foudre de <attacker>
+lightning2=<attacker> grillé <victim> avec la foudre
+zombie1=<victim> a été mis en pièces par <attacker>
+zombie2=<victim> a été humilié par <attacker>
+zombie3=<attacker> a mangé le corps entier de <victim>
+mummy1=<victim> a été momifié par <attacker>
+mummy2=<attacker> était trop effrayant pour <victim>
+mummy3=<attacker> était malheureusement trop bon pour <victim>
+skeleton1=<victim> a été mis en pièces par <attacker>
+skeleton2=<attacker> était trop effrayant pour <victim>
+skeleton3=<attacker> était trop dur pour <victim>
+polar1=<victim> a été mutilé par <attacker>
+polar2=<attacker> était trop rapide pour <victim>
+polar3=<victim> a été tué par <attacker>
+vamp1=<attacker> a éliminé <victim> 
+vamp2=<attacker> a emmené <victim> dans son repaire
+vamp3=<victim> n'a pas fait attention à <attacker>
+voidwiz1=<attacker> a transformé <victim> en poudre magique
+voidwiz2=<attacker> a défendu son territoire contre <victim>
+voidwiz3=<victim> a été trop touché par les sorts de <attacker>
+voidwiz4=La magie de <attacker> était trop puissante pour <victim>
+voidapp1=<attacker> a fustigé <victim> avec de la couleur
+voidapp2=<victim> a eu un avant-goût du bâton de <attacker>
+voidapp3=<attacker> était trop rapide pour <victim>
+piratecap1=<victim> a été envahi par <attacker>
+piratecap2=<attacker> a explosé le visage de <victim>
+piratecap3=<attacker> a gardé le trésor de <victim>
+piratecap4=<victim> n'a pas pu gérer le canon de <attacker>
+cavespider1=<victim> a été déchiré par <attacker>
+cavespider2=Les crocs de <attacker> étaient trop gros pour <victim>
+cavespider3=<attacker> a mangé <victim> vivant
 
 [tech]
-all=All
+all=Tous
 inventory=Inventaire
-workstation=Workstation
+workstation=Établi
 forge=Forge
-carpenter=Carpenters bench
-ironanvil=Fer anvil
-alchemy=Alchemy table
-demonic=Demonic workstation
-advanced=Advanced workstation
-madein=Made in: <tech>
-madeinhidden=Made in: <tech> (hidden)
+carpenter=Banc de Menuiserie
+ironanvil=Enclume
+alchemy=Table d'Alchimie
+demonic=Établi Démoniaque
+advanced=Établi Avancé
+madein=Fabriqué dans : <tech>
+madeinhidden=Fabriqué dans : <tech> (Caché)
 
 [achievement]
-complete=Complete
-incomplete=Incomplete
-track=Track <achievement>
-chatcomplete=§a<player> completed achievement §7<achievement>
-completedon=Completed on <date>
-spelunker=Spelunker
-spelunker_desc=Be careful to not get lost!
-defeat_boss=First of Many
-defeat_boss_desc=Defeat your first boss
-get_pet=Companion For Adventure
-get_pet_desc=Get your first pet
-start_settlement=Do It Yourself
-start_settlement_desc=Start a settlement
-set_spawn=Instant Nap
-set_spawn_desc=Change your spawn point
-enchant_item=Artificer
-enchant_item_desc=Enchant an item using the mage
-magical_drop=Magique Drop
-magical_drop_desc=Increase max trinket slots
-village_helper=Village Helper
-village_helper_desc=Complete a settlement quest tier
-hoarder=Hoarder
-hoarder_desc=Have an inventory full of different items
-self_proclaimed=Self Proclaimed
-self_proclaimed_desc=Wear a gold crown
-double_catch=Double Catch
-double_catch_desc=Catch 2 fish in 1 throw
-complete_host=Complete Host
-complete_host_desc=Have all possible settlers live in the same settlement
-getting_hot=Getting Hot
-getting_hot_desc=Reach the deep caves
-obtain_items=Complete Collector
-obtain_items_desc=Obtain all possible items
-visit_biomes=Tourist
-visit_biomes_desc=Visit all different biomes
-fish_up=More Than A Hobby
-fish_up_desc=Fish up a total of 500 items
-run_marathon=Marathon Runner
-run_marathon_desc=Run a full marathon on foot
-play_24h=Time Wasted
-play_24h_desc=Play the game for a full 24 hours
+complete=Réalisé
+incomplete=Incomplet
+track=Suivre <achievement>
+chatcomplete=§a<joueur> a réalisé §7<achievement>
+completedon=Réalisé le <date>
+spelunker=Spéléologue 
+spelunker_desc=Faites attention de ne pas vous perdre!
+defeat_boss=Premier parmi tant d'autres
+defeat_boss_desc=Battez votre premier boss
+get_pet=Compagnon d'aventure
+get_pet_desc=Obtenez votre premier animal de compagnie
+start_settlement=Faites-le vous-même
+start_settlement_desc=Commencez un colonie
+set_spawn=Sieste instantanée
+set_spawn_desc=Changez votre point d'apparition
+enchant_item=Artificier
+enchant_item_desc=Enchantez un objet en utilisant le mage
+magical_drop=Goutte de magie
+magical_drop_desc=Augmentez le nombre maximum d'emplacements de bibelots
+village_helper=Assistant de village
+village_helper_desc=Terminez un palier de quête de colonie
+hoarder=Thésauriseur
+hoarder_desc=Avoir un inventaire plein d'objets différents
+self_proclaimed=Auto-proclamé
+self_proclaimed_desc=Portez une couronne en or
+double_catch=Double capture
+double_catch_desc=Attrapez 2 poissons en 1 lancé
+complete_host=Hôte complet
+complete_host_desc=Que tous les colons possibles vivent dans la même colonie
+getting_hot=Chaud Bouillant
+getting_hot_desc=Atteignez les cavernes profondes
+obtain_items=Collectionneur
+obtain_items_desc=Obtenez tous les objets possibles
+visit_biomes=Touriste
+visit_biomes_desc=Visitez tous les différents biomes
+fish_up=Plus qu'un passe-temps
+fish_up_desc=Pêchez un total de 500 objets
+run_marathon=Marathonien
+run_marathon_desc=Courez un marathon complet à pied
+play_24h=Temps Perdu
+play_24h_desc=Jouez au jeu pendant 24 heures complètes
 
 [loading]
-foundmods=Found <mods> mod(s)
-loadedmods=Loaded <mods> mod(s)
-preinitmods=Pre initializing mods
-initmods=Initializing mods
-initmodsres=Initializing mod resources
-postinitmods=Post initializing mods
-biomes=Loading biomes
-buffs=Loading buffs
-items=Loading items
-leveldata=Loading level data
-levelevents=Loading level events
-mobs=Loading mobs
-objects=Loading objects
-pickups=Loading pickups
-projectiles=Loading projectiles
-textures=Loading textures
-sound=Loading sound
-shaders=Loading shaders
-commands=Loading commands
-tiles=Loading tiles
-worldevents=Loading world events
-finishing=Finishing up
-mapshot=Taking mapshot
-loading=Loading
-connecting=Connecting
-connectrecipes=Loading recipes <percent>%
-connectstats=Loading player stats
-connectworld=Loading world
-connectlevel=Loading level
-connectplayers=Loading players <percent>%
-connectclient=Loading client
-connectquests=Loading quests
-connectmap=Loading map <percent>%
+foundmods=<mods> mod(s) trouvé(s)
+loadedmods=Mod(s) <mods> chargé(s)
+preinitmods=Pré-initialisation des mods
+initmods=Initialisation des mods
+initmodsres=Initialisation des ressources des mods
+postinitmods=Après l'initialisation des mods
+biomes=Chargement des biomes
+buffs=Chargement des buffs
+items=Chargement des items
+leveldata=Chargement des données de niveau
+levelevents=Chargement des événements de niveau
+mobs=Chargement des monstres
+objects=Chargement des objets
+pickups=Chargement des pickups
+projectiles=Chargement des projectiles
+textures=Chargement des textures
+sound=Chargement des sons
+shaders=Chargement des shaders
+commands=Chargement des commands
+tiles=Chargement des tuiles
+worldevents=Chargement des événements mondiaux
+finishing=Finitions
+mapshot=Prise d'une mapshot
+loading=Chargement
+connecting=Connexion
+connectrecipes=Chargement des recettes <percent>%
+connectstats=Chargement des stats de joueur
+connectworld=Chargement du monde
+connectlevel=Chargement du level
+connectplayers=Chargement du joueur : <percent>%
+connectclient=Chargement du client
+connectquests=Chargement des quêtes
+connectmap=Chargement de la map : <percent>%
 
 [ui]
 travelbutton=Voyager
-respawnbutton=Respawn
+respawnbutton=Réapparaître
 dirnorth=Nord
 dirwest=Ouest
 direast=Est
@@ -1740,38 +1688,38 @@ travelsouthwest=Voyager vers le Sud-Ouest
 travelsoutheast=Voyager vers le Sud-Est
 travelloading=Chargement...
 scoreyour=Votre île
-scoredirup=Above you
-scoredirdown=Below you
+scoredirup=Au-dessus de vous
+scoredirdown=En dessous de vous
 scoredirunknown=Localisation Inconnu 
 latencytip=<latency> ms
-respawn=Respawn
-respawnin=Respawn in <seconds>
-totalarmor=Total armor: <armor>
+respawn=Réapparaître
+respawnin=Réapparaître dans <seconds>s
+totalarmor=Armure total : <armor>
 filtercraft=Craftable
-changefilters=CHANGE FILTERS
-craftfilters=Crafting filters
-craftsearchfilter=Filter
-showhidden=Show hidden
-craftshowhiddentip=Some recipes are hidden until you can craft them, or require a specific ingredient in inventory to show up
-usenearbyinv=Use nearby inventories
-usenearbyinvtip=If crafting should use nearby inventory items
-expand=Expand
-collapse=Collapse
-catmats=Materials
-catobjects=Objects
-cattools=Tools
+changefilters=CHANGE LES FILTRES
+craftfilters=Crafter les Filtres
+craftsearchfilter=Filtre
+showhidden=Démasquer
+craftshowhiddentip=Certaines recettes sont cachées jusqu'à ce que vous puissiez les fabriquer, ou que vous ayez besoin d'un ingrédient spécifique dans l'inventaire 
+usenearbyinv=Utiliser les stocks à proximité 
+usenearbyinvtip=Si l'artisanat doit utiliser des objets stocké à proximité 
+expand=Développer
+collapse=Réduire
+catmats=Matériaux
+catobjects=Objets
+cattools=Outils 
 catarmor=Armure
-catmisc=Misc
-shopnoitems=No items found
-shopselltip=§aGet <coins> coins for <amount>:
-shopbuytip=§aGive <coins> coins for <amount>:
-insertmat=Insert crafting material in slot
-waystoneinvalidhome=§6Could not find Homestone
-waystonenoslots=§6No empty Waystone slots
-waystoneinvalid=§6Could not find Waystone
-currenttime=Current time: <time>
+catmisc=Divers
+shopnoitems=Aucun article trouvé
+shopselltip=§aVendez <amount> pour <coins> pièces :
+shopbuytip=§aPayez <coins> pièces pour <amount> :
+insertmat=Insérer le matériel de fabrication
+waystoneinvalidhome=§6Impossible de trouver une Homestone 
+waystonenoslots=§6Aucun emplacement de Waystone vide
+waystoneinvalid=§6Impossible de trouver Waystone
+currenttime=Heure Actuelle : <time>
 hotkeytip=Raccourcis : <hotkey>
-dontshowagain=Don't show again
+dontshowagain=Ne plus afficher 
 backbutton=Retour
 buybutton=Acheter
 confirmbutton=Confirmer
@@ -1783,7 +1731,6 @@ cancelbutton=Annuler
 closebutton=Fermer
 
 // Main menu
-// Menu
 continueworld=Continuer le Monde
 continuetip=Continuer <world>
 newworld=Nouveau Monde
@@ -1792,29 +1739,29 @@ hostworld=Héberger un Monde
 multiplayer=Multijoueurs
 settings=Paramètre
 mods=Mods
-exit=Exit
+exit=Quitter
 loadsave=Charger
-confirmdeletesave=Supprimer la sauvgarde "<save>" ?
+confirmdeletesave=Supprimer la sauvegarde "<save>" ?
 deletesave=Supprimer
 backupsave=Backup
-nosavestip=Aucune sauvgarde du monde trovée. Créez un nouveau monde avant.
+nosavestip=Aucune sauvegarde du monde trouvée. Créez un nouveau monde avant.
 savetip=Jour : <day>, Heure : <time>
 refreshservers=Rafraichir
 addserver=Ajouter un Serveur
 deleteserver=Supprimer un Serveur
 confirmdeleteserver=Supprimer le Serveur "<server>" ?
 joinserver=Rejoindre le Serveur
-directjoin=Rejoindre Directement
-unknownaddress=Adresse Inconnue
-searchinglan=Recherche de Serveurs Locaux...
-searchlandone=Recherche de Serveurs Locaux effectuée
+directjoin=Rejoindre directement
+unknownaddress=Adresse inconnue
+searchinglan=Recherche de serveur local...
+searchlandone=Recherche de serveur local effectuée
 correctversion=Version du Jeu correcte
 wrongversion=Mauvaise Version du Jeu
-serverversion=Serveur v. <version>
+serverversion=Serveur v.<version>
 passwordprotected=Le Serveur est protégé par un Mot de Passe
 serversettings=Paramètre Serveur :
-mobsdisabled=Appararition des Monstres Désactivée
-mobsenabled=Appararition des Monstres Activée
+mobsdisabled=Appararition des monstres désactivée
+mobsenabled=Appararition des monstres activée
 keepinv=Garder l'inventaire à la mort
 dropinv=Laisser tomber l'inventaire à la mort
 forcepvpon=Forcer le PVP Activé
@@ -1840,8 +1787,8 @@ ipdesc=Addresse IP :
 ipexample=127.0.0.1
 portdesc=Nombre du Port:
 portexample=14159 ou 9001
-hostport=Port d'Hébergement
-playerslots=Nombre de Joueurs
+hostport=Port d'hébergement
+playerslots=Nombre de joueurs
 password=Mot de Passe
 passwordtip=Laissez vide si aucun mot de passe
 hoststart=Héberger
@@ -1857,94 +1804,93 @@ colorred=Rouge
 colorgreen=Vert
 colorblue=Bleu
 resetappearance=Défaut
-undoreset=Annuler le Reset
+undoreset=Annuler la réinitialisation
 randomappearance=Aléatoire
 customspawn=Personnaliser le point d'apparition
-xcoord=X coord
-ycoord=Y coord
-spawnguide=Spawn guide house
-disablespawns=Disable mob spawns
-daymodnew=Day time modifier
-nightmodnew=Night time modifier
-spawnsettings=Spawn settings
-spawnseed=Spawn\nseed
+xcoord=Coordonnée X
+ycoord=Coordonnée Y
+spawnguide=Apparition de la maison guide
+disablespawns=Désactiver l'apparitions de mob
+daymodnew=Modificateur heure du jour
+nightmodnew=Modificateur heure de nuit
+spawnsettings=Paramètres d'apparition
+spawnseed=Graine\n de génération
 resetseed=Reset
 playername=Nom du Joueur
-playernamesize=Name must be between 4 and 20 characters
-playernamesymbols=Name contains invalid symbols
-playernameinuse=Name already in use
-savename=Save name
-createworld=Create world
-worldsettings=World settings
-worldadvanced=Advanced
-hostnewworld=Host new world
+playernamesize=Le nom doit comporter entre 4 et 20 caractères
+playernamesymbols=Le nom contient des symboles invalides
+playernameinuse=Nom déjà utilisé
+savename=Enregistrer le nom
+createworld=Créer un monde
+worldsettings=Paramètres du monde
+worldadvanced=Avancé
+hostnewworld=Héberger un nouveau monde
 selectsave=Sélectionner
-steamlobbytype=Serveur visibility
-steamlobbyinvite=Invite only
-steamlobbyfriends=Friends only
+steamlobbytype=Visibilité du serveur
+steamlobbyinvite=Invitation uniquement
+steamlobbyfriends=Amis uniquement
 steamlobbypublic=Public
-allowconnectbyip=Allow connection by IP
-peacefulbox=Peaceful
-dropinvbox=Drop inventory on death
-forcedpvpbox=Forced PvP
-rememberpass=Remember password
-waitserver=Waiting for server to shut down...
-modmoveup=Move up
-modmovedown=Move down
+allowconnectbyip=Autoriser la connexion par IP
+peacefulbox=Paisible
+dropinvbox=Faire tomber l'inventaire en cas de décès
+forcedpvpbox=PvP forcé
+rememberpass=Mémoriser le Mot de Passe
+waitserver=En attente de l'arrêt du serveur...
+modmoveup=Monter
+modmovedown=Descendre
 modenable=Activé
 moddisable=Désactivé
-modhelp=Help
-modssave=Save
-modsinfoselect=Select mod for details
-modstatusenabled=enabled
-modstatusdisabled=disabled
-modstatus=Status: <status>
-modinfoid=ID: <id>
+modhelp=Aide
+modssave=Enregistrer
+modsinfoselect=Sélectionnez le mod pour plus de détails
+modstatusenabled=activé
+modstatusdisabled=désactivé
+modstatus=Statut : <status>
+modinfoid=ID : <id>
 modinfoname=Nom : <name>
-modinfoversion=Version: <version>
-modinfogameversion=Game version: <version>
-modinfodep=Dependencies:
-modinfooptdep=Optional dependencies:
-modssavenotice=NOTICE:\nYou must restart the game for change to take effect
-modsquit=Quit now
-modslater=Do later
-modsempty=No mods found
+modinfoversion=Version : <version>
+modinfogameversion=Version de Jeu : <version>
+modinfodep=Dépendances :
+modinfooptdep=Dépendances optionnelles :
+modssavenotice=ATTENTION :\nVous devez redémarrer le jeu pour que les changements prennent effet
+modsquit=Quittez maintenant
+modslater=Faire plus tard
+modsempty=Aucun mods trouvé
 modsalpha=ALPHA
-modsalphatip=Modding is still in very early stages.\nYou may experience game breaking bugs while using this feature
-modhelptext=Place mods JAR files into games mods directory (create one if it doesn't exist) and they will appear here after restart.
-modiniterror=An error occurred while initializing mod\n"<mod>"\nCheck the latest log for details.
-modmismatch=Your mods do not match the servers
-modmatch=Your mods match the servers
+modsalphatip=Le Modding en est encore à ses débuts.\nVous pouvez rencontrer des bugs lors de son utilisation.
+modhelptext=Placez les fichiers JAR des mods dans le répertoire des mods de jeux (créez-en un s'il n'existe pas) et ils apparaîtront ici après le redémarrage.
+modiniterror=Une erreur s'est produite lors de l'initialisation du mod\n"<mod>"\nVérifiez les logs pour plus de détails.
+modmismatch=Vos mods ne correspondent pas aux serveurs
+modmatch=Vos mods correspondent aux serveurs
 modreview=Avis
-servermods=Serveur mods
+servermods=Mods Serveur
 mymods=Mes Mods
-useservermods=Use server mods
+useservermods=Utiliser des mods de serveur
 modmissing=Manquant
-modinversion=Incorrect version
-modinposition=Incorrect position
-modmissingsome=Missing some mods
+modinversion=Version incorrecte
+modinposition=Position incorrecte
+modmissingsome=Des mods sont manquants
 
 // Achievements and stats form
-achievementsandstats=Achievements and stats
-achievements=Achievements
-achdisabled=Achievements disabled
-achenabled=Achievements enabled
-achdisabledhelp=This world does not have achievements and player stats enabled. Achievements get disabled when cheats are used in the world. This is not reversible, and you have to start a new world to progress in achievements.
-showcompleted=Show completed
-loadingstats=Loading...
-statsnotfound=Stats not found
-playerstats=Player stats
-playerstatstip=Your total stats across all worlds
-psdisabled=Player stats disabled
-globalstats=Global stats
-characterstats=Character stats
-characterstatstip=Current characters stats
-worldstats=World stats
-worldstatstip=Total stats in this world
-gotinvite=Game invite from <name>
+achievementsandstats=Succès et statistiques
+achievements=Succès
+achdisabled=Succès Désactivé
+achenabled=Succès Activé
+achdisabledhelp=Ce monde n'a pas de succès ni de statistiques activé. Les succès sont désactivés lorsque des cheats ou Mods sont utilisées dans le monde. Ce n'est pas réversible, et vous devez commencer un nouveau monde pour progresser dans les Succès.
+showcompleted=Afficher Terminés
+loadingstats=Chargement...
+statsnotfound=Statistiques non trouvées
+playerstats=Statistiques des joueurs
+playerstatstip=Toutes vos statistiques dans tous les mondes
+psdisabled=Statistiques du joueur désactivées
+globalstats=Statistiques globales
+characterstats=Statistiques des personnages
+characterstatstip=Statistiques actuelles des personnages
+worldstats=Statistiques du Monde
+worldstatstip=Statistiques totales dans ce Monde
+gotinvite=Invitation de jeu de : <name>
 
 // Pause menu
-// Menu pause
 resumegame=Reprendre
 invitefriends=Inviter des amis
 playinggame=Jouer à <game>
@@ -1963,193 +1909,192 @@ statuslookingtotrade=Recherche pour échanger
 
 // Player
 pvplabel=PvP
-teamcreate=Create new team
-teamleave=Leave team
-teamleaveconfirm=Leave team?\nYou will have to get an invite to join again
-teamnocurrent=You are currently not in any team
-teamowner=Owner: <owner>
-teamchangename=Change team name
-teaminvite=Invite players
-teaminviteselected=Invite selected
-teammembers=Members
+teamcreate=Créer une nouvelle équipe
+teamleave=Quitter l'équipe
+teamleaveconfirm=Quitter l'équipe?\nVous devrez recevoir une nouvelle invitation pour rejoindre à nouveau.
+teamnocurrent=Vous n'êtes actuellement pas dans une équipe.
+teamowner=Propriétaire : <owner>
+teamchangename=Changer le nom de l'équipe
+teaminvite=Inviter des joueurs
+teaminviteselected=Invite sélectionné
+teammembers=Membres
 teamkick=Kick <name>
-teampassowner=Pass team ownership
+teampassowner=Donner la propriété de l'équipe
 teaminvites=Invites
-diedlabel=You died
+diedlabel=Vous êtes mort
 settlement=Colonie
-settlementsurface=Only on surface
-pvpandteams=PvP and teams
-quests=Quests
-noquests=You do not have any active quests
-maphide=Hide
-mapshow=Show
-toggleautodoor=Toggle auto door
+settlementsurface=Uniquement en surface
+pvpandteams=PvP and équipes
+quests=Quêtes
+noquests=Vous n'avez aucune quête active
+maphide=Cacher
+mapshow=Afficher
+toggleautodoor=Activer l'ouverture automatique des portes
 
 // Containers
-elderheader=What can I help you with?
-elderquest=Colonie quest
-elderquestprogress=Quest tier progress
-eldernoquest=No current settlement quest
-eldertakequest=Take quest
-eldercompletequest=Complete quest
-elderskipquest=Skip quest
-elderskipquesttime=Cannot skip quest at this time
-elderskipquestcant=Cannot skip this quest
-eldertips=Tips
-eldernexttip=Next
-elderprevtip=Previous
-eldertip1=Ladders help you get underground where you can find resources and treasure
-eldertip2=Some recipes are hidden until you have all the ingredients
-eldertip3=Use the crafting guide book to see recipes using a crafting material
-eldertip4=Some islands have villages with people willing to trade
-eldertip5=The dungeon has a powerful wizard guarding the end
-eldertip6=A dangerous demon can be summoned if you find a portal for it
-eldertip7=Fishing is very useful for creating potions
-eldertip8=Armure usually have a set bonuses when all is equipped
-eldertip9=Traders change their prices every day. Try to trade with them on their best day
-eldertip10=Starting your own settlement is very useful to always have access to traders
-eldertip11=Some traders sell more items when you've defeated certain enemies
-eldertip12=A powerful creature can be found in the desert caves
-elderhelpbutton=Explain something
-elderhelp=Select a topic
-eldercrafting=Crafting
-eldercraftingtip=All items with the tooltip "Crafting material" are used in a recipe somewhere. Use your inventory crafting for simple recipes. Crafting stations like workstation and anvil can be used for more advanced crafting. Use filter in inventory crafting to filter for specific recipes. Place a crafting material in the slot below to see possible recipes.
-elderexploring=Exploring
-elderexploringtip=Swimming or sailing to the edge of the map will allow you to travel to different islands. Once you have travelled to the island, you will discover its biome for future travel. Some islands have higher level content, so it may be worth to leave it alone and come back later.
-eldertrading=Trading
-eldertradingtip=Some islands have villages with traders. Traders have random items of their profession they want to buy or sell. Some traders of same profession will have different items and prices. Start a settlement to always have specific traders nearby.
-elderobjects=Objects
-elderobjectstip=Objects are the things placed in the world. Some objects have collision and some objects you can interact with. Use tools like the axe and pickaxe to break them.
-eldertiles=Tiles
-eldertilestip=Tiles are the things you walk on and swim in. Some objects can only be placed on certain tiles. Use the shovel to pick up most tiles.
-eldertools=Tools
-eldertoolstip=Early game tools are crafted at the iron anvil. Pickaxes are used for rock type objects, axes for wood type objects and shovels for tiles. Some objects requires higher tier tools to be broken.
-elderweapons=Weapons
-elderweaponstip=Basic early game weapons are crafted at the iron anvil. More advanced weapons can often be found in chests around the world. There are a wide variety of weapon types, anything from swords and bows to guns, boomerangs and magic weapons.
+elderheader=En quoi puis-je vous aider?
+elderquest=Quête de la colonie
+elderquestprogress=Progression du niveau de quête
+eldernoquest=Aucune quête de Colonie en cours
+eldertakequest=Prendre la quête
+eldercompletequest=Terminer la quête
+elderskipquest=Passer la quête
+elderskipquesttime=Impossible de passer la quête pour le moment
+elderskipquestcant=Impossible de passer cette quête
+eldertips=Conseils
+eldernexttip=Suivant
+elderprevtip=Précédent
+eldertip1=Les échelles vous aident à entrer sous terre, où vous pouvez trouver des ressources et des trésors
+eldertip2=Certaines recettes sont cachées jusqu'à ce que vous ayez tous les ingrédients
+eldertip3=Utilisez le guide d'artisanat pour voir des recettes utilisant un matériau d'artisanat
+eldertip4=Certaines îles ont des villages avec des gens pouvant commercer
+eldertip5=Le donjon a un puissant sorcier protégeant son fond
+eldertip6=Un dangereux démon peut être invoqué si vous lui trouvez un portail
+eldertip7=La pêche est très utile pour créer des potions
+eldertip8=Les armures ont généralement un ensemble de bonus lorsque tout est équipé
+eldertip9=Les commerçants modifient leurs prix tous les jours. Essayez d'échanger avec eux lors de leur meilleur jour
+eldertip10=Commencer votre propre Colonie est très utile pour avoir toujours accès aux commerçants
+eldertip11=Certains commerçants vendent plus d'objets lorsque vous avez vaincu certains ennemis
+eldertip12=Une créature puissante peut être trouvée dans les grottes du désert
+elderhelpbutton=Expliquez quelque chose
+elderhelp=Sélectionnez un sujet 
+eldercrafting=Fabriquer
+eldercraftingtip=Tous les objets avec l'info-bulle "Matériel de Fabrication" sont utilisés dans une recette quelque part. Utilisez votre inventaire pour créer des recettes simples. Des postes de fabrication tels que l'établie et l'enclume peuvent être utilisés pour une fabrication plus avancée. Utilisez le filtre dans la fabrication de l'inventaire pour filtrer des recettes spécifiques. Placez un matériau de fabrication dans l'emplacement ci-dessous pour voir les recettes possibles.
+elderexploring=Explorer
+elderexploringtip=Nager ou naviguer jusqu'au bord de la carte vous permettra de voyager vers différentes îles. Une fois que vous aurez voyagé sur l'île, vous découvrirez son biome pour de futurs voyages. Certaines îles ont un contenu de plus haut niveau, il peut donc valoir la peine de la laisser tranquille et de revenir plus tard.
+eldertrading=Commerce
+eldertradingtip=Certaines îles ont des villages avec des commerçants. Les commerçants ont des objets aléatoires de leur profession qu'ils veulent acheter ou vendre. Certains commerçants de même profession auront des articles et des prix différents. Commencez une colonie pour toujours avoir des commerçants spécifiques à proximité.
+elderobjects=Objets
+elderobjectstip=Les objets sont les choses placées dans le monde. Certains objets ont des collisions et avec d'autres il est possible d'interagir. Utilisez des outils comme la hache et la pioche pour les casser.
+eldertiles=Tuiles
+eldertilestip=Les tuiles sont les choses sur lesquelles tu marches et nagent. Certains objets ne peuvent être placés que sur certaines tuiles. Utilisez la pelle pour ramasser la plupart des tuiles.
+eldertools=Outils
+eldertoolstip=Les premiers outils de jeu sont fabriqués sur l'enclume. Les pioches sont utilisées pour les objets de type roche, les haches pour les objets de type bois et les pelles pour les tuiles. Certains objets nécessitent des outils de niveau supérieur pour être brisés.
+elderweapons=Armes
+elderweaponstip=Les armes de base en début de partie sont fabriquées sur l'enclume. Des armes plus avancées peuvent souvent être trouvées dans les coffres autour du monde. Il existe une grande variété de types d'armes, des épées aux arcs en passant par les armes à feu, les boomerangs et les armes magiques.
 elderarmor=Armure
-elderarmortip=Early game armor are crafted at the iron anvil. Armure sets often have bonuses when entire set is equipped. Cosmetic armor slots do not give any stats, but override the look of the equivalent equipped armor slot.
-eldertrinkets=Trinkets
-eldertrinketstip=Trinkets can often be found in chests around the world and sometimes crafted. They give various of different buffs and enhancements. Equipping 2 of the same type does not work, and will ignore the later trinket.
-elderenchants=Enchants
-elderenchantstip=Most weapons and trinkets can be enchanted to give better stats. You can find a friendly mage to help you enchant an item for a cost. Good enchantments helps a lot to overcome the next challenge.
+elderarmortip=Les armures en début en partie sont fabriquées sur l'enclume. Les ensembles d'armure ont souvent des bonus lorsque l'ensemble complet est équipé. Les emplacements d'armure cosmétique ne donnent aucune statistique, mais remplacent l'apparence de l'armure équipé équivalent.
+eldertrinkets=Bibelots
+eldertrinketstip=Les bibelots peuvent souvent être trouvés dans les coffres du monde et parfois fabriqués. Ils donnent divers buffs et améliorations. Équiper 2 du même type ne fonctionne pas, et ignorera le dernier bibelot.
+elderenchants=Enchantement
+elderenchantstip=La plupart des armes et des bibelots peuvent être enchantés pour donner de meilleures statistiques. Vous pouvez trouver un mage amical pour vous aider à enchanter un objet contre un certain prix. Les bons enchantements aident beaucoup à surmonter les défis.
 elderpotions=Potions
-elderpotionstip=Potions can be found in chests or crafted at the alchemy table. They are important for survival and defeating hard enemies, so don't be too conservative when using them!
+elderpotionstip=Les potions peuvent être trouvées dans les coffres ou fabriquées à la table d'alchimie. Ils sont importants pour la survie et pour vaincre les ennemis durs, alors ne soyez pas trop économe lorsque vous les utilisez !
 eldersettlements=Colonies
-eldersettlementstip=Colonies are player made villages. To start one, craft a settlement flag and place it down. Rooms and buildings will then start to be populated with NPCs depending on the owner of the settlement. Other people can force move in settlers they have access to on public settlements. Kill bosses and progress to unlock more NPCs.
-demoniccrafting=Demonic crafting
-tpislandrange=Island range: <range>
+eldersettlementstip=Les colonies sont des villages créés par les joueurs. Pour en créer un, fabriquez un drapeau de colonie et posez-le. Les salles et les bâtiments commenceront alors à être peuplés de PNJ en fonction du propriétaire de la colonie. D'autres personnes peuvent forcer le déplacement des colons auxquels elles ont accès dans les colonies publiques. Tuez des boss et progressez pour débloquer plus de PNJ.
+demoniccrafting=Fabrication Démoniaque
+tpislandrange=Distance d'Île: <range>
 tpdestinations=Destinations
-traderbuy=Buy
-tradersell=Sell
-mageheader=I can help you enchant items or you can visit my shop!
-mageenchant=Enchant
-mageconfirm=Enchant!
-mageenchanttip=Put item in slot and press enchant to get a random enchantment or curse!
-magecost=Cost:
-stylistheader=Need a new haircut or just looking to buy a shirt?
-stylistchange=Change style
-stylistbuy=Buy
-stylistcost=Cost:
-stylistshirtcolor=Chemise color
-stylistshoescolor=Chaussures color
-stylistreset=Reset
-stylistrandom=Randomize
-brokerprofit=Profit:
-brokervalue=Value: <value>
-explorerfindisland=Find island
-explorerexpeditions=Expeditions
-explorerselectisland=Select island
-explorerfindcost=I will go look for a new <biome> island for <cost> coins
-explorerfoundisland=I found a new <biome> island <dir> of here
-explorerfoundfail=I could not find the island you were looking for
-explorerknowalready=Looks like you know about the <biome> island I found already. Do you want me to find a new one?
-explorerfindnew=Find new
-explorerdiscover=Discovered island <dir> of your location (<coord>)
-explorerselectexp=Select expedition
-explorershowallexp=Show all
-explorerexpcost=I will bring back items from a <expedition> expedition for <cost> coins with a <chance>% success chance
-explorerexpfail=Sorry, but I couldn't complete the expedition
-explorerexpcomplete=I found these items on the expedition
-explorerexploot=Receive
-explorerexpdiscard=Discard
-wireinputs=Inputs
-wireoutputs=Outputs
-wire0=Red wire
-wire1=Green wire
-wire2=Blue wire
-wire3=Yellow wire
+traderbuy=Acheter
+tradersell=Vendre
+mageheader=Je peux vous aider à enchanter des objets, sinon vous pouvez visiter ma boutique!
+mageenchant=Enchantement
+mageconfirm=Enchanter !
+mageenchanttip=Mettez l'objet dans l'emplacement et appuyez sur "Enchantement" pour obtenir un enchantement ou une malédiction aléatoire !
+magecost=Coût :
+stylistheader=Besoin d'une nouvelle coupe de cheveux ou cherchez-vous simplement à acheter une chemise?
+stylistchange=Changer de style
+stylistbuy=Acheter
+stylistcost=Coût :
+stylistshirtcolor=Couleur de la chemise
+stylistshoescolor=Couleur des chaussures
+stylistreset=Réinitialiser
+stylistrandom=Randomiser
+brokerprofit=Profit :
+brokervalue=Valeur : <value>
+explorerfindisland=Trouver une île
+explorerexpeditions=Expéditions
+explorerselectisland=Sélectionnez une île
+explorerfindcost=Je vais chercher une nouvelle île <biome> pour <cost> pièces.
+explorerfoundisland=J'ai trouvé une nouvelle île <biome> à <dir> d'ici !
+explorerfoundfail=Je n'ai pas trouvé l'île que vous cherchiez...
+explorerknowalready=On dirait que vous connaissez l'île <biome> que j'ai déjà trouvée. Voulez-vous que j'en trouve une nouvelle ?
+explorerfindnew=Trouver une nouvelle
+explorerdiscover=Île découverte à <dir> de votre emplacement (<coord>)
+explorerselectexp=Sélectionner une expédition
+explorershowallexp=Tout afficher
+explorerexpcost=Je ramènerai des objets d'une expédition <expedition> contre des <cost> pièces, avec <chance>% de chances de succès.
+explorerexpfail= Désolé, mais je n'ai pas pu terminer l'expédition...
+explorerexpcomplete=J'ai trouvé ces objets lors de l'expédition !
+explorerexploot=Recevoir
+explorerexpdiscard=Rejeter
+wireinputs=Entrées
+wireoutputs=Sorties
+wire0=Fil rouge
+wire1=Fil vert
+wire2=Fil bleu
+wire3=Fil jaune
 bufferticks=Ticks
-buffertip=<ticks> ticks is 1 sec
-buffersave=Save
+buffertip=<ticks> ticks est de 1s
+buffersave=Enregistrer
 timerticks=Ticks
-timertip=<ticks> ticks is 1 sec
-timersave=Save
-soundpitch=Pitch
-soundsave=Save
-sensorplayers=Players
-sensorhostile=Hostile mobs
-sensorpassive=Passive mobs
-sensorrange=Range
-rsactivate=Activate
-rsreset=Reset
-inventoryrename=Rename
-inventorysave=Save
-inventoryquickstack=Quick stack to inventory
-inventoryquickstackinfo=Will quick stack items to inventory. Use <key> to lock items from being stacked
-inventoryrestock=Will restock from inventory
-inventorylootall=Loot all from inventory
-inventorysort=Sort inventory
-telepadname=Name
-telepadprivate=Private
-telepadregister=Register
-telepaddial=Dial
-telepadaccesserr=Telepad is private
-telepadnodest=No valid destinations
-settlementnone=Could not find settlement flag
-settlementman=Colonie manager
-settlementowner=Owner: <owner>
-settlementpriv=Privacy settings
-settlementispriv=Colonie is private
-settlementowneronly=Owner only
-settlementmakepriv=Make private
-settlementmakepub=Make public
-settlementclaim=Claim settlement
-settlementunclaim=Unclaim settlement
-settlementclaimfirst=Claim first
-settlementroom=Manage rooms
-settlementhowto=Help:\n1. Click a preferred settler\n2. Click on the room to lock
-settlementshowall=Show all
-travelselect=Select island
-travelworldmap=World map
-travelhelp=Left click to travel\nRight click to focus.
-travelteam=Team members:
-travelspawn=§aSpawn island
-traveldiscovered=§7Discovered
-travelnotdiscovered=§9Not discovered
-travelloadingisland=§9Loading island level...
-traveloutrange=§6Out of travel range
-travelnotes=Notes:
-travelcantcurrent=Cannot travel to current destination
-travelcantrange=Destination out of range
-travelcantmap=Go to edge of map to travel
-travelcancel=Cancel
+timertip=<ticks> ticks est de 1s
+timersave=Enregistrer
+soundpitch=Hauteur
+soundsave=Enregistrer
+sensorplayers=Joueurs
+sensorhostile=Créatures Hostiles
+sensorpassive=Créatures Passives
+sensorrange=Plage
+rsactivate=Activer
+rsreset=Réinitialiser
+inventoryrename=Renommer
+inventorysave=Enregistrer
+inventoryquickstack=Empiler rapidement dans l'inventaire
+inventoryquickstackinfo=Empiler rapidement les objets dans l'inventaire. Utilisez <key> pour empêcher l'empilement des éléments.
+inventoryrestock=Restock depuis l'inventaire
+inventorylootall=Dépose tout l'inventaire
+inventorysort=Trier l'inventaire 
+telepadname=Nom
+telepadprivate=Privé
+telepadregister=S'enregistrer
+telepaddial=Composer
+telepadaccesserr=Le Telepad est privé
+telepadnodest=Aucune destination valide
+settlementnone=mpossible de trouver le drapeau de colonie
+settlementman=Gestionnaire de colonie
+settlementowner=Propriétaire : <owner>
+settlementpriv=Paramètres de confidentialité
+settlementispriv=La colonie est privée
+settlementowneronly=Propriétaire uniquement
+settlementmakepriv=Rendre privé
+settlementmakepub=Rendre public
+settlementclaim=Claim la colonie
+settlementunclaim=Unclaim la colonie
+settlementclaimfirst=Premier Claim
+settlementroom=Gérer les Salles
+settlementhowto=Aide:\n1. Cliquez sur un colon\n2. Cliquez sur la pièce à verrouiller
+settlementshowall=Tout afficher
+travelselect=Sélectionnez une île
+travelworldmap=Carte du monde
+travelhelp=Cliquez avec le bouton gauche pour voyager.\nCliquez avec le bouton droit pour faire la mise au point.
+travelteam=Membres de l'équipe :
+travelspawn=§aÎle d'apparition
+traveldiscovered=§7Découvert
+travelnotdiscovered=§9Non découvert
+travelloadingisland=§9Niveau de chargement de l'île...
+traveloutrange=§6Hors distance de déplacement
+travelnotes=Notes :
+travelcantcurrent=Impossible de voyager vers la destination actuelle
+travelcantrange=Destination hors de portée
+travelcantmap=Aller au bord de la carte pour voyager
+travelcancel=Annuler
 travelconfirm=Voyager
-craftingguide=Crafting guide
-composting=Composting...
-needcompost=Need compost material
-emptywaystones=Empty Waystone slots: <count>
-waystoneempty=Empty slot
-waystonenum=Waystone <num>
-waystonerename=Rename
-waystonesave=Save
-waystonehelp=Get one Waystone slot for each completed quest tier\nMore Waystones can be bought from the settlement Mage
+craftingguide=Guide de Fabrication
+composting=Compostage...
+needcompost=Besoin de compost
+emptywaystones=Emplacements de Waystone vides : <count>
+waystoneempty=Emplacement vide
+waystonenum=Waystone N°<num>
+waystonerename=Renommer
+waystonesave=Enregistrer
+waystonehelp=Obtenez un emplacement de Waystone pour chaque niveau de quête terminé \nD'avantage de Waystone peuvent être achetées auprès du mage de la colonie 
 
 // Sidebars
 tutoriallabel=Tutoriel
 wireedit=Éditer
 
 // Quickbar
-// Bar Rapide
 shiftmoreinfo=Maintenez shift pour plus d'informations.
 restocktip=Réapprovisionner à partir des stocks à proximité.
 quickstacktip=Empilement rapide dans l'inventaires.
@@ -2247,7 +2192,7 @@ camerashake=Tremblement de l'écran
 cursorsize=Taille
 mutefocus=Mute en cas de perte de mise au point
 mastervolume=Volume Principal
-effectsvolume=Volume des Effets
+effectsvolume=Volume des effets
 weathervolume=Volume de la Météo
 uivolume=Volume de l'interface utilisateur
 musicvolume=Volume de la Musique
@@ -2256,100 +2201,99 @@ communitytranslations=Traductions communautaires
 save=Sauvegarder
 
 [stats]
-filter=Filter:
-time_played=Time played
-distance_ran=Distance ran
-distance_ridden=Distance ridden
-damage_dealt=Damage dealt
-show_types=Show types
-damage_taken=Damage taken
-deaths=Deaths
-mob_kills=Mob kills
-boss_kills=Boss kills
-show_mobs=Show mobs
-island_travels=Island travels
-islands_discovered=Islands discovered
-biomes_discovered=Biomes discovered
-show_biomes=Show biomes
-objects_mined=Objects mined
-objects_placed=Objects placed
-tiles_mined=Tiles mined
-tiles_placed=Tiles placed
-potions_consumed=Potions consumed
-fish_caught=Fish caught
-quests_completed=Quests completed
-money_earned=Money earned
-items_sold=Items sold
-money_spent=Money spent
-items_bought=Items bought
-items_enchanted=Items enchanted
-items_obtained=Unique items obtained
-show_missing_items=Show missing items
-show_items_all=All
-show_items_obtained=Obtained
-show_items_not_obtained=Not obtained
-have_all_items=You have obtained all items!
-trinkets_worn=Trinkets worn
-show_missing_trinkets=Show missing trinkets
-missing_trinkets=Missing trinkets:
-have_all_trinkets=You have worn all trinkets!
-set_bonuses_worn=Set bonuses worn
-telepads_used=Telepads used
-ladders_used=Ladders used
-doors_used=Doors used
-plates_triggered=Plates triggered
-levers_flicked=Levers flicked
-homestones_used=Homestones used
-waystones_used=Waystones used
-crafted_items=Crafted items
-crates_broken=Crates broken
+filter=Filtre :
+time_played=Temps joué
+distance_ran=Distance parcourue
+distance_ridden=Distance chevauché
+damage_dealt=Dégâts infligés
+show_types=Afficher les types
+damage_taken=Dommages subis
+deaths=Morts
+mob_kills=Créatures Tuées
+boss_kills=Boss Tuées
+show_mobs=Afficher les créatures
+island_travels=îles Voyagées
+islands_discovered=Îles découvertes
+biomes_discovered=Biomes découverts
+show_biomes=Afficher les biomes
+objects_mined=Objets minés
+objects_placed=Objets placés
+tiles_mined=Tuiles minés
+tiles_placed=Tuiles placés
+potions_consumed=Potions consommées
+fish_caught=Poissons pêchés
+quests_completed=Quêtes terminées
+money_earned=Argent gagné
+items_sold=Articles vendus
+money_spent=Argent dépensé
+items_bought=Articles achetés
+items_enchanted=Objets enchantés
+items_obtained=Objets uniques obtenus
+show_missing_items=Afficher les éléments manquants
+show_items_all=Tout
+show_items_obtained=Obtenu
+show_items_not_obtained=Non obtenu
+have_all_items=Vous avez obtenu tous les objets !
+trinkets_worn=Bibelots portés
+show_missing_trinkets=Afficher les bibelots manquants
+missing_trinkets=Bibelots manquants :
+have_all_trinkets=Vous avez porté tous les bibelots !
+set_bonuses_worn=Définir les bonus usés
+telepads_used=Telepads utilisés
+ladders_used=Échelles utilisées
+doors_used=Portes utilisées
+plates_triggered=Plaques déclenchées
+levers_flicked=Leviers actionnés
+homestones_used=Homestones utilisées
+waystones_used=Waystones utilisées
+crafted_items=Objets fabriqués
+crates_broken=Caisses détruite
 
-normal_damage=Normal damage
-true_damage=True damage
-melee_damage=Melee damage
-ranged_damage=Ranged damage
-magic_damage=Magic damage
-summon_damage=Summon damage
+normal_damage=Dommages normaux
+true_damage=Vrai dommage
+melee_damage=Dommages en mêlée
+ranged_damage=Dommages à distance
+magic_damage=Dégâts magiques
+summon_damage=Dommages d'invocation
 
 [controls]
-groupgeneral=General
-groupmovement=Movement
-groupmisc=Miscellaneous
-groupkeymods=Key modifiers
-groupdebug=Debug
-mouse1=Attack/place
-mouse2=Interact
-moveup=Move up
-moveleft=Move left
-movedown=Move down
-moveright=Move right
-movetomouse=Move to mouse
-inventory=Inventory
-healthpotion=Use health potion
-setability=Use armor set ability
-trinketability=Use trinket ability
-smartmining=Toggle smart mining
-scoreboard=Scoreboard
-showmap=Show island map
-showworldmap=Show world map
-zoomin=Zoom in
-zoomout=Zoom out
-hideui=Hide UI
-screenshot=Screenshot
-debuginfo=Debug info
-debughud=Debug hud
-buffpotions=Use buff potions
-placetorch=Place torch
-nexthotbar=Next hotbar slot
-prevhotbar=Previous hotbar slot
-invlock=Toggle slot locked
-invquickmove=Quick move
-invtrash=Quick trash
-craftall=Craft all
-craft5=Craft 5
+groupgeneral=Général
+groupmovement=Mouvement
+groupmisc=Divers
+groupkeymods=Modifier les touches
+groupdebug=Débogage
+mouse1=Attaquer/Placer
+mouse2=Interagir
+moveup=Monter
+moveleft=Aller à gauche
+movedown=Descendre
+moveright=Aller à droite
+movetomouse=Déplacer vers la souris
+inventory=Inventaire
+healthpotion=Utiliser une potion de santé
+setability=Utiliser la capacité de set d'armure
+trinketability=Utiliser la capacité de bibelot
+smartmining=Activer le minage intelligent
+scoreboard=Tableau de Score
+showmap=Afficher la carte de l'île
+showworldmap=Afficher la carte du monde
+zoomin=Zoom avant
+zoomout=Zoom arrière
+hideui=Masquer l'interface utilisateur
+screenshot=Capture d'écran
+debuginfo=Informations de débogage
+debughud=débogage hud
+buffpotions=Utiliser des potions de buff
+placetorch=Placer la torche
+nexthotbar=Emplacement de hotbar suivant
+prevhotbar=Emplacement de hotbar précédent
+invlock=Activé l'emplacement vérouillé
+invquickmove=Déplacement rapide
+invtrash=Corbeille
+craftall=Fabriquer Tout
+craft5=Fabriquer 5
 
 // Control tips
-// Conseils de contrôle 
 interacttip=Interagir
 usetip=Utiliser
 opentip=Ouvrir
@@ -2360,58 +2304,58 @@ mountmob=Monter
 addropemob=Ajouter une corde
 removeropemob=Retirer la corde
 feedmob=Nourrir
-equiptip=Equiper
+equiptip=Équiper
 
 [misc]
-recipecostmult=Cost for <amount>:
-recipecostsing=Cost:
-ingredienthave=Have: <ingredient>
-epspawn=§bEvil's Protector has been summoned!
-epescape=§bEvil's Protector has escaped because of the light!
-epdefeat=§bEvil's Protector has been defeated!
-vwstart=§bNéant Wizard has awoken!
-vwdefeat=§bNéant Wizard has been defeated!
-pcdefeat=§bPirate Captain has been defeated!
-invasionspawn=§bA mob invasion has started!
-vulturespawn=§bAncient Vulture has been summoned!
-vulturestart=§bAncient Vulture has awoken!
-vulturedefeat=§bAncient Vulture has been defeated!
-reaperspawn=§bReaper has been summoned!
-reaperdefeat=§bReaper has been defeated!
-cryoqueenspawn=§bCryo Queen has been summoned!
-cryoqueendefeat=§bCryo Queen has been defeated!
-pvpenable=<player> enabled PvP
-pvpdisable=<player> disabled PvP
-teamjoin=<player> joined <team>
-teamleft=<player> left <team>
-teamkick=<player> was kicked from <team>
-teaminvite=You have been invited to join <team>
-screenshotsave=Saved screenshot to <path>
-mapshotsave=Saved mapshot to <path>
-mapshottip=Saving mapshot, this may take some time...
-shotopen=Click to open folder
-shotexplore=Click to show in explorer
-clearsettler=Clear settler
-locksettler=Lock <settler>
-nosettler=Lock no settler
-playerconnecting=<player> is connecting!
-playerjoined=<player> has joined!
-laddernotsurface=I can only use this on the surface
-mountnotown=You do not own this mount!
-spawndungeon=Cannot set spawn inside dungeon
-spawnhouse=Cannot set spawn outside
-spawnset=Spawn point set!
-spawnremoved=Spawn point removed!
-spawninvalid=Previous spawn point is invalid
-boatplacetip=To pick up the boat again, hit it with a weapon!
-dpscount=DPS: <dps>
-permuser=User
-permmod=Moderator
-permadmin=Admin
-permowner=Owner
+recipecostmult=Coût pour <amount> :
+recipecostsing=Coût :
+ingredienthave=Avoir : <ingredient>
+epspawn=§bLe protecteur du mal a été invoqué !
+epescape=§bLe protecteur du mal s'est échappé à cause de la lumière !
+epdefeat=§bLe protecteur du mal a été vaincu !
+vwstart=§bLe Mage du Néant s'est réveillé !
+vwdefeat=§bLe Mage du Néant a été vaincu !
+pcdefeat=§bLe capitaine du pirate a été vaincu !
+invasionspawn=§bUne invasion de monstre a commencé !
+vulturespawn=§bUn Vautour Antique a été invoqué !
+vulturestart=§bLe Vautour Antique s'est réveillé !
+vulturedefeat=§bLe Vautour Antique a été vaincu !
+reaperspawn=§bLa Faucheuse a été invoquée !
+reaperdefeat=§bLa Faucheuse a été vaincue !
+cryoqueenspawn=§bLa Reine des Glaces a été invoqué!
+cryoqueendefeat=§bLa Reine des Glaces a été vaincue!
+pvpenable=<player> PvP activé
+pvpdisable=<player> PvP désactivé
+teamjoin=<player> a rejoint  <team>
+teamleft=<player> a quitté <team>
+teamkick=<player> a été expulsé de <team>
+teaminvite=Vous avez été invité à rejoindre <team>
+screenshotsave= Capture d'écran enregistrée dans <path>
+mapshotsave=Mapshot enregistré dans <path>
+mapshottip=Enregistrement de  la Mapshot, cela peut prendre un certain temps ...
+shotopen=Cliquez pour ouvrir le dossier
+shotexplore=Cliquez pour afficher dans l'explorateur
+clearsettler=Effacer le colon
+locksettler=Verrouiller <settler>
+nosettler=Verrouiller aucun colon
+playerconnecting=<player> s'est connecté !
+playerjoined=<player> a rejoint !
+laddernotsurface=Je ne peux utiliser ceci qu'en surface
+mountnotown=Vous ne possédez pas cette monture !
+spawndungeon=Impossible de placer le spawn dans le donjon
+spawnhouse=Impossible de placer le spawn à l'extérieur
+spawnset=Points d'apparition enregistré !
+spawnremoved=Point d'apparition supprimé !
+spawninvalid=Le point d'apparition précédent n'est pas valide
+boatplacetip=Pour reprendre le bateau, frappez-le avec une arme !
+dpscount=DPS : <dps>
+permuser=Utilisateur
+permmod=Modérateur
+permadmin=Administrateur
+permowner=Propriétaire
 permserver=Serveur
-permchange=Permissions set to: <perm>
-allowcheats=Allow cheats to do that
-smartminingon=Smart mining ON
-smartminingoff=Smart mining OFF
-eanotice=Notice:\nThis is an early access build.\n\nYou might encounter bugs, missing, incomplete or unpolished features.\n\nThank you for playing!
+permchange=Permisions définies sur : <perm>
+allowcheats=Autoriser les tricheurs à faire ça
+smartminingon=Minage intelligent ON
+smartminingoff=Minage intelligent OFF
+eanotice=Remarque:\nCeci est une version à accès anticipé.\n\nVous pourriez rencontrer des bugs, des fonctionnalités manquantes, incomplètes ou imparfaite.\n\nMerci d'avoir joué ! 
